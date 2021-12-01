@@ -1,11 +1,7 @@
 body {
   color: rgb(8, 8, 8);
   text-align: left;
-<<<<<<< HEAD
-  font-family: "Courier New", Courier, monospace;
-=======
   font-family: Verdana, Geneva, Tahoma, sans-serif;
->>>>>>> cabecera
   margin: 0;
   padding: 0;
   background-color: lightgray;
@@ -30,13 +26,8 @@ body {
   padding: 2em;
   text-align: left;
   border: 1px solid black;
-<<<<<<< HEAD
-  margin: 0 auto;
-  border-radius: 5px;
-=======
   border-radius: 5px;
   margin: 0 auto;
->>>>>>> cabecera
   background-color: ivory;
 }
 #container h1 {
