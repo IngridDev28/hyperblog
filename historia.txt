@@ -1,8 +1,5 @@
- esta es la historia de ingrid 
- naciio en colombia 
- estudio metrologia y ahora se arriesga con programacion dirigida
- por el ceo freddy vega jajaja maldito cabezon 
- soy colombiana 
+hola estamos en la clase instructiva 
+de git y github, dirigida por el ceo de platzi 
+aprendido cada dia algo nuevo y positivo para mmi futuro.
 
-
- manana  se hablara de su vida laboral 
+soy ingrid mendoza y soy programadora. 
