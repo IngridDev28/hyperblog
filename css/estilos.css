@@ -24,7 +24,11 @@ body {
   font-weight: normal;
   font-size: 0.8em;
 }
-
+#foto {
+  border-radius: 2em;
+  width: 100%;
+  margin: auto;
+}
 #container {
   width: 70%;
   padding: 0;
@@ -42,6 +46,7 @@ body {
   padding: 0.5em;
   text-align: center;
   font-size: 15px;
+  border-radius: 5px;
 }
 #post {
   background: white;
