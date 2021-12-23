@@ -2,6 +2,8 @@ hola estamos en la clase instructiva
 de git y github, dirigida por el ceo de platzi 
 aprendido cada dia algo nuevo y positivo para mmi futuro.
 
+experimento 1 
+
 master 1
 
 master 2
