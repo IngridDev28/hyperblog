@@ -13,6 +13,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 - Las personalidades múltiples de Freddy anita su lado oculto
 - Creaciones fantasticas desde platzi
 - incluye ejemplos en windows, linux y mac
+- disponible para todas las edades
 
 Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
 **probablemente borre este readme a futuro **
